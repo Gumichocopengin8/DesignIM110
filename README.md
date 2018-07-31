@@ -1,4 +1,4 @@
 # DesignIM110
 Portfolio
 
-All rights reserved
+--All rights reserved--
